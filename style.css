@@ -58,7 +58,9 @@ html,body{
 #loader h1 span{
     font-family: "Mazius review";
 }
-
+.reveal{
+    padding: 0 1vw;
+}
     
 
 .reveal .parent{
@@ -188,7 +190,7 @@ html,body{
 }
 @media (max-width: 500px) {
     .row h5 {
-        font-size: 7px;
+        font-size: 5px;
         align-items: center;
     }
   }
